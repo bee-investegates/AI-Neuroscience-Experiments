@@ -12,6 +12,8 @@ relationship between what a person sees, hears, and reads — and
 which brain regions activate in response. Given a new video input, 
 it predicts the neural response across the cortical surface.
 
+![Brain Scan](./up.png)
+
 Output
 Each frame in the output corresponds to one second (t=0s to t=14s). 
 The 3D brain is rendered laterally (side view). Activation intensity 
